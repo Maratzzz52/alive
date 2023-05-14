@@ -1,0 +1,2 @@
+# alive
+in combat
